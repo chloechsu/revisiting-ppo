@@ -1,0 +1,8 @@
+*.pyc
+*.txt
+.nfs*
+.DS_Store
+analysis/.ipynb_checkpoints
+src/agent_configs/
+src/agents/
+MUJOCO_LOG.TXT
